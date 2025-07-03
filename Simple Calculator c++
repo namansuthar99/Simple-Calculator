@@ -35,3 +35,4 @@ int main(){
         cout<<"Press c for calculate again or any other keys to quit : ";
         cin>>ch;
     }
+}
